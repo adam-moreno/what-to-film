@@ -52,7 +52,7 @@ Real input and output from `examples/`. Made-up businesses only, never a real cl
 
 One idea from that run:
 
-> **Mulch volcano fixed.** First line: "Somebody piled mulch up this tree like a volcano. Let's fix it." (from: "…The last guy piled it up against my tree.")
+> **Mulch volcano fixed.** First line: "Somebody piled mulch up this tree like a volcano. Let's fix it." (from: "How much mulch do I actually need? The last guy piled it up against my tree.")
 > *Before you start:* film a close-up of the mulch piled on the trunk before you touch it.
 
 ## Limitations
